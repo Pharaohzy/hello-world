@@ -5,4 +5,4 @@ char* StrCpy( char* src)
      dst[i]=src[i];
      dst[l]="\0"
  return dst;
-}
+}//Angel warrior zcy
