@@ -6,3 +6,7 @@ char* StrCpy( char* src)
      dst[l]="\0"
  return dst;
 }//Angel warrior zcy
+}
+=======
+}
+//B21032325zhangyi
