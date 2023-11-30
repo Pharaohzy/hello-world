@@ -6,3 +6,4 @@ char* StrCpy( char* src)
      dst[l]="\0"
  return dst;
 }
+//B21032325zhangyi
